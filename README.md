@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @biplobgon;
 - 👀 I’m interested in Data Science && Statistics;
-- 🌱 I’m currently learning Python, SAS, R;
-- 💞️ I’m looking to collaborate on cool data science projects on R / Python / SAS;
+- 🌱 I’m currently learning advanced ML methods and MLOPs.
+- 💞️ I’m looking to collaborate on cool data science projects;
 - 📫 How to reach me <biplobgon@gmail.com>
 
 <!---

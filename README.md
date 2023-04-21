@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @biplobgon;
-- 👀 I’m interested in Data Science && Statistics;
-- 🌱 I’m currently learning advanced ML methods and MLOPs.
-- 💞️ I’m looking to collaborate on cool data science projects;
+- 👀 I’m an associate data scientist at Purchasing Power;
+- 🌱 I’m holding an MS degree in Statistics from University of Calcutta.
+- 💞️ I’m looking to collaborate on real life, impactful ML projects;
 - 📫 How to reach me <biplobgon@gmail.com>
 
 <!---

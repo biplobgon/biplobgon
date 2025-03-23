@@ -29,4 +29,6 @@
 - 🏠 **Website**: [biplobgon.com](https://biplob-gon-data-scientist-portfolio.b12sites.com/)
 - 📝 **Medium Blog**: [medium.com/@biplobgon](https://medium.com/@biplobgon)
 - 💼 **LinkedIn**: [linkedin.com/in/biplobgon](https://linkedin.com/in/biplobgon)
+- 🐦 **X (Twitter)**: [x.com/im_gon](https://x.com/im_gon)
+
 

@@ -9,13 +9,13 @@
 | #  | Project | Domain | Key Technologies | GitHub Repo |
 |----|---------|--------|-----------------|-------------|
 | 1  | Simple AI ChatBot | Gen AI | Streamlit, HuggingFace DialoGPT, Transformers | [Repo](https://github.com/biplobgon/simple-ai-chatbot) |
-| 1  | AI-Powered Personalized Shopping Assistant | E-commerce | LLM, GPT, LangChain, OpenAI API, Streamlit | [Repo](https://github.com/biplobgon/ai_personal_shopper) |
-| 2  | Demand Forecasting for E-commerce | E-commerce | Transformers, Time-Series, XGBoost, AWS | [Repo](https://github.com/biplobgon/demand_forecasting) |
-| 3  | Dynamic Pricing Engine (RL) | E-commerce | Reinforcement Learning, Gym, AWS Lambda | [Repo](https://github.com/biplobgon/dynamic_pricing_rl) |
-| 4  | Visual Search for E-Commerce | E-commerce | Computer Vision, TensorFlow, FastAPI | [Repo](https://github.com/biplobgon/visual_search_engine) |
-| 5  | AI Credit Scoring Model | Fintech | LightGBM, AutoML, SageMaker | [Repo](https://github.com/biplobgon/credit_scoring_ml) |
-| 6  | Fraud Detection System | Fintech | Graph Neural Networks, AWS, PyTorch | [Repo](https://github.com/biplobgon/fraud_detection_gnn) |
-| 7  | AI Chatbot for Financial Advisory | Fintech | LLM, LangChain, OpenAI API | [Repo](https://github.com/biplobgon/financial_chatbot_llm) |
+| 2  | AI-Powered Personalized Shopping Assistant | E-commerce | LLM, GPT, LangChain, OpenAI API, Streamlit | [Repo](https://github.com/biplobgon/ai_personal_shopper) |
+| 3  | Demand Forecasting for E-commerce | E-commerce | Transformers, Time-Series, XGBoost, AWS | [Repo](https://github.com/biplobgon/demand_forecasting) |
+| 4  | Dynamic Pricing Engine (RL) | E-commerce | Reinforcement Learning, Gym, AWS Lambda | [Repo](https://github.com/biplobgon/dynamic_pricing_rl) |
+| 5  | Visual Search for E-Commerce | E-commerce | Computer Vision, TensorFlow, FastAPI | [Repo](https://github.com/biplobgon/visual_search_engine) |
+| 6  | AI Credit Scoring Model | Fintech | LightGBM, AutoML, SageMaker | [Repo](https://github.com/biplobgon/credit_scoring_ml) |
+| 7  | Fraud Detection System | Fintech | Graph Neural Networks, AWS, PyTorch | [Repo](https://github.com/biplobgon/fraud_detection_gnn) |
+| 8  | AI Chatbot for Financial Advisory | Fintech | LLM, LangChain, OpenAI API | [Repo](https://github.com/biplobgon/financial_chatbot_llm) |
 
 ## 🛠️ Tech Stack
 - **Programming**: Python, PyTorch, SQL, PySpark  

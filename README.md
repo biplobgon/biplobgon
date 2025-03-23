@@ -8,6 +8,7 @@
 ## 📌 Featured AI/ML Projects
 | #  | Project | Domain | Key Technologies | GitHub Repo |
 |----|---------|--------|-----------------|-------------|
+| 1  | Simple AI ChatBot | Gen AI | Streamlit, HuggingFace DialoGPT, Transformers | [Repo](https://github.com/biplobgon/simple-ai-chatbot)) |
 | 1  | AI-Powered Personalized Shopping Assistant | E-commerce | LLM, GPT, LangChain, OpenAI API, Streamlit | [Repo](https://github.com/biplobgon/ai_personal_shopper) |
 | 2  | Demand Forecasting for E-commerce | E-commerce | Transformers, Time-Series, XGBoost, AWS | [Repo](https://github.com/biplobgon/demand_forecasting) |
 | 3  | Dynamic Pricing Engine (RL) | E-commerce | Reinforcement Learning, Gym, AWS Lambda | [Repo](https://github.com/biplobgon/dynamic_pricing_rl) |

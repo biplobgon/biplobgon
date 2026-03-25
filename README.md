@@ -49,7 +49,7 @@
 
 | # | Project | Key Business Question | Impact | Tech Stack | Innovation |
 |---|--------|----------------------|--------|------------|------------|
-| 1 | Automotive Warranty Prediction Model | Predict warranty cost across lifecycle? | Multi-billion $ planning enablement | XGBoost, Time-Series | Hierarchical modeling |
+| 1 | [🚗 Automotive Warranty Prediction Model](https://github.com/biplobgon/automotive-warranty-prediction) | Predict warranty cost across lifecycle? | Multi-billion $ planning enablement | XGBoost, Time-Series | Hierarchical modeling |
 | 2 | Manufacturing Defect Prediction | Detect defects early in production? | Reduced failures & warranty risk | Isolation Forest, Time-Series | Sensor + production fusion |
 | 3 | Supply Chain Forecasting | Forecast parts demand? | Reduced stockouts | XGBoost, Prophet, LSTM | Hybrid ensemble forecasting |
 | 4 | FSA Prediction Model | Identify vehicles needing service? | Reduced recall costs | Classification, Survival Analysis | Failure probability modeling |

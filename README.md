@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Biplob Gon</h1>
-<h3 align="center">🚀 Data Scientist | AI Systems Builder | Automotive • FinTech • E-Commerce • Marketing • Consulting domain
+<h3 align="center">🚀 Data Scientist | AI Systems Builder | Automotive • FinTech • E-Commerce • Marketing domain
 <h3 align="center">  Agentic AI • Time-Series • Decision Intelligence</h3>
 
 

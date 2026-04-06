@@ -48,7 +48,7 @@
 | # | Project | Key Business Question | Impact | Tech Stack | Innovation |
 |---|--------|----------------------|--------|------------|------------|
 | 5 | Pricing Optimization System | Optimal product pricing? | Revenue & margin uplift | Elasticity, Regression | Constraint-based pricing |
-| 6 | [Product Recommendation](https://github.com/biplobgon/product-recommendation-system) | What to recommend? | Increased conversions | Collaborative Filtering | Hybrid recommendation |
+| 6 | [Product Recommendation Engine](https://github.com/biplobgon/product-recommendation-system) | What to recommend? | Increased conversions | Collaborative Filtering | Hybrid recommendation |
 | 7 | Next Purchase Prediction | What will user buy next? | Personalization boost | Sequence Models | Journey modeling |
 | 8 | Customer Churn Model | Who will churn? | Retention improvement | XGBoost | Behavioral features |
 

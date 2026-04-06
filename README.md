@@ -108,17 +108,7 @@
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
 ![CI/CD](https://img.shields.io/badge/CI/CD-green)
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=biplobgon&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
 # ⚡ Philosophy
 
-> "AI is not about building models — it's about building intelligent systems that drive real-world decisions."
+> "At its core, data science is statistical thinking — understanding variability, uncertainty, and causality. AI is the engineering layer that operationalizes these insights into real-world decision systems."
 

@@ -58,7 +58,7 @@
 
 | # | Project | Key Business Question | Impact | Tech Stack | Innovation |
 |---|--------|----------------------|--------|------------|------------|
-| 9 | [Proactive Defaulter Prediction](https://github.com/biplobgon/proactive-defaulter-flagging-system) | Who will default? | Reduced credit risk | XGBoost | Early risk detection |
+| 9 | [Proactive Defaulter Prediction System](https://github.com/biplobgon/proactive-defaulter-flagging-system) | Who will default? | Reduced credit risk | XGBoost | Early risk detection |
 | 10 | First-Time Buyer Model | Who will convert? | Better targeting | Classification | Propensity modeling |
 
 ---

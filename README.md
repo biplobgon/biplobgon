@@ -79,7 +79,7 @@
 
 | # | Project | Key Business Question | Impact | Tech Stack | Innovation |
 |---|--------|----------------------|--------|------------|------------|
-| 16 | Marketing Mix Modeling | What drives sales? | ~25% ROI improvement | Regression, Time-Series | Macro + channel modeling |
+| 16 | [Marketing Mix Modeling](https://github.com/biplobgon/marketing-mix-modelling) | What drives sales? | ~25% ROI improvement | Regression, Time-Series | Macro + channel modeling |
 | 17 | Multi-Touch Attribution | Which channels convert? | Better budget allocation | Probabilistic Models | Journey attribution |
 
 ---

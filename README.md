@@ -47,10 +47,10 @@
 
 | # | Project | Key Business Question | Impact | Tech Stack | Innovation |
 |---|--------|----------------------|--------|------------|------------|
-| 5 | Pricing Optimization System | Optimal product pricing? | Revenue & margin uplift | Elasticity, Regression | Constraint-based pricing |
-| 6 | [Product Recommendation Engine](https://github.com/biplobgon/product-recommendation-system) | What to recommend? | Increased conversions | Collaborative Filtering | Hybrid recommendation |
-| 7 | Next Purchase Prediction | What will user buy next? | Personalization boost | Sequence Models | Journey modeling |
-| 8 | Customer Churn Model | Who will churn? | Retention improvement | XGBoost | Behavioral features |
+| 1 | Pricing Optimization System | Optimal product pricing? | Revenue & margin uplift | Elasticity, Regression | Constraint-based pricing |
+| 2 | [Product Recommendation Engine](https://github.com/biplobgon/product-recommendation-system) | What to recommend? | Increased conversions | Collaborative Filtering | Hybrid recommendation |
+| 3 | Next Purchase Prediction | What will user buy next? | Personalization boost | Sequence Models | Journey modeling |
+| 4 | Customer Churn Model | Who will churn? | Retention improvement | XGBoost | Behavioral features |
 
 ---
 
@@ -58,8 +58,8 @@
 
 | # | Project | Key Business Question | Impact | Tech Stack | Innovation |
 |---|--------|----------------------|--------|------------|------------|
-| 9 | [Proactive Defaulter Prediction](https://github.com/biplobgon/proactive-defaulter-flagging-system) | Who will default? | Reduced credit risk | XGBoost | Early risk detection |
-| 10 | First-Time Buyer Model | Who will convert? | Better targeting | Classification | Propensity modeling |
+| 5 | [Proactive Defaulter Prediction](https://github.com/biplobgon/proactive-defaulter-flagging-system) | Who will default? | Reduced credit risk | XGBoost | Early risk detection |
+| 6 | First-Time Buyer Model | Who will convert? | Better targeting | Classification | Propensity modeling |
 
 ---
 
@@ -67,11 +67,11 @@
 
 | # | Project | Key Business Question | Impact | Tech Stack | Innovation |
 |---|--------|----------------------|--------|------------|------------|
-| 11 | Matchmaking System | Fair player matching? | Improved retention | ELO, RL | Multi-objective matchmaking |
-| 12 | Player Churn Prediction | Who will churn? | Retention boost | LSTM, Transformers | Sequence modeling |
-| 13 | In-Game Recommendation | What to recommend? | Monetization uplift | Deep Learning | Context-aware recsys |
-| 14 | Dynamic Pricing System | Optimize game economy? | Revenue optimization | RL + Elasticity | Real-time pricing |
-| 15 | Toxicity Detection | Detect toxic behavior? | Better player experience | BERT, LLM | Moderation pipeline |
+| 7 | Matchmaking System | Fair player matching? | Improved retention | ELO, RL | Multi-objective matchmaking |
+| 8 | Player Churn Prediction | Who will churn? | Retention boost | LSTM, Transformers | Sequence modeling |
+| 9 | In-Game Recommendation | What to recommend? | Monetization uplift | Deep Learning | Context-aware recsys |
+| 10 | Dynamic Pricing System | Optimize game economy? | Revenue optimization | RL + Elasticity | Real-time pricing |
+| 11 | Toxicity Detection | Detect toxic behavior? | Better player experience | BERT, LLM | Moderation pipeline |
 
 ---
 
@@ -79,8 +79,8 @@
 
 | # | Project | Key Business Question | Impact | Tech Stack | Innovation |
 |---|--------|----------------------|--------|------------|------------|
-| 16 | [Marketing Mix Modeling](https://github.com/biplobgon/marketing-mix-modelling) | What drives sales? | ~25% ROI improvement | Regression, Time-Series | Macro + channel modeling |
-| 17 | Multi-Touch Attribution | Which channels convert? | Better budget allocation | Probabilistic Models | Journey attribution |
+| 12 | [Marketing Mix Modeling](https://github.com/biplobgon/marketing-mix-modelling) | What drives sales? | ~25% ROI improvement | Regression, Time-Series | Macro + channel modeling |
+| 13 | Multi-Touch Attribution | Which channels convert? | Better budget allocation | Probabilistic Models | Journey attribution |
 
 ---
 

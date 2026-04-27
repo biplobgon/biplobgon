@@ -67,7 +67,7 @@
 
 | # | Project | Key Business Question | Impact | Tech Stack | Innovation |
 |---|--------|----------------------|--------|------------|------------|
-| 7 | Matchmaking System | Fair player matching? | Improved retention | ELO, RL | Multi-objective matchmaking |
+| 7 | [Matchmaking System](https://github.com/biplobgon/matchmaking-system) | Fair player matching? | Improved retention | ELO, RL | Multi-objective matchmaking |
 | 8 | Player Churn Prediction | Who will churn? | Retention boost | LSTM, Transformers | Sequence modeling |
 | 9 | In-Game Recommendation | What to recommend? | Monetization uplift | Deep Learning | Context-aware recsys |
 | 10 | Dynamic Pricing System | Optimize game economy? | Revenue optimization | RL + Elasticity | Real-time pricing |

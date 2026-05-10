@@ -49,7 +49,7 @@
 |---|--------|----------------------|--------|------------|------------|
 | 1 | [Pricing Optimization System](https://github.com/biplobgon/pricing-optimization-system) | Optimal product pricing? | Revenue & margin uplift | Elasticity, Regression | Constraint-based pricing |
 | 2 | [Product Recommendation Engine](https://github.com/biplobgon/product-recommendation-system) | What to recommend? | Increased conversions | Collaborative Filtering | Hybrid recommendation |
-| 3 | Next Purchase Prediction | What will user buy next? | Personalization boost | Sequence Models | Journey modeling |
+| 3 | [Next Purchase Prediction](https://github.com/biplobgon/next-purchase-prediction) | What will user buy next? | Personalization boost | Sequence Models | Journey modeling |
 | 4 | Customer Churn Model | Who will churn? | Retention improvement | XGBoost | Behavioral features |
 
 ---

@@ -13,6 +13,9 @@
   <a href="https://medium.com/@biplobgon">
     <img src="https://img.shields.io/badge/Medium-Blog-black?logo=medium" />
   </a>
+  <a href="Biplob_Gon_Data_Scientist_Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-PDF-blue?logo=adobe" />
+  </a>
 </p>
 
 ---
@@ -32,6 +35,7 @@
 - 📝 **Medium Blog**: [medium.com/@biplobgon](https://medium.com/@biplobgon)
 - 💼 **LinkedIn**: [linkedin.com/in/biplobgon](https://linkedin.com/in/biplobgon)
 - 🐦 **X (Twitter)**: [x.com/im_gon](https://x.com/im_gon)
+ - 📄 **Resume (PDF)**: [Biplob_Gon_Data_Scientist_Resume.pdf](Biplob_Gon_Data_Scientist_Resume.pdf)
 
 ---
 
